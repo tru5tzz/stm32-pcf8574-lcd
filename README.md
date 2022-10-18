@@ -2,7 +2,7 @@
 
 Có gì thiếu sót thì góp ý bổ sung.
 
-Hướng dẫn chi tiết có tại ....
+[Đọc hướng dẫn sử dụng trước khi dùng](https://tru5tzz.github.io/stm32-pcf8574-lcd/)
 
 ## Limitations
 
